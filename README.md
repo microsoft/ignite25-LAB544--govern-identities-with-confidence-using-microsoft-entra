@@ -58,16 +58,9 @@ For more information, setup instructions for other dev clients, and to post comm
 <table>
 <tr>
     <td align="center"><a href="http://github.com/r-c-stewart">
-        <img src="https://github.com/r-c-stewart.png" width="100px;" alt="Robert Stewart"
-"/><br />
+        <img src="https://github.com/r-c-stewart.png" width="100px;" alt="Robert Stewart"/>
+        <br />
         <sub><b> Robert Stewart
-</b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
-    </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
-"/><br />
-        <sub><b>INSERT NAME HERE
 </b></sub></a><br />
             <a href="https://github.com/mikekinsman" title="talk">📢</a> 
     </td>
