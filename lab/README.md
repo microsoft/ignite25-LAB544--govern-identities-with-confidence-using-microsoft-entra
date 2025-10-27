@@ -1,31 +1,21 @@
 
 
-These instructions are for participants of the **instructor-led** Workshop "SESSIONNAME" at Microsoft AI Tour 2026.  Register to attend in a city near you at [Microsoft AI Tour](https://aitour.microsoft.com/).
+These instructions are for participants of the **instructor-led** Workshop "LAB544 - Govern identities with confidence using Microsoft Entra" at Microsoft Ignite 2025.
 
 ## Lab Overview
 
-In this hands-on workshop, you’ll learn to ....
+In this hands-on workshop, you’ll learn to:
 
-If you're not a workshop participant at AI Tour, try this code yourself at ....
+Use the features of Microsoft Entra ID Governance to on-board a new use with Lifecycle workflows and Entitlement. Then use Access Reviews and Privileged Identity Management to ensure proper access is granted.
 
 ## Pre-Requisites
 
 To participate in this workshop, you will need:
 
 1. Your own laptop.
-   * It need only be capable of running a browser and GitHub Codespaces, so almost any laptop will do.
+   * It need only be capable of running a browser.
    * A recent version of Edge, Chrome or Safari is recommended.
-2. Prerequisite #2
-3. Prerequisite #3
 
 ## Get Started
 
-To get started you will need to
-
-## Discussions
-
-Build your first agent with Azure AI Agent Service is an open source project supported by Microsoft. See the [SUPPORT.md](../SUPPORT.md) file for details on how to raise issues or contribute. If you enjoyed this workshop please give the repository a ⭐ and share it with others.
-
-## Source code
-
-The source code for this session can be found in the [src folder](../src) of this repo.
+To get started you will need to launch the lab link provided, then follow the instructions on the right side of the screen.
