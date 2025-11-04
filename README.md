@@ -19,13 +19,13 @@ By the end of this session, learners will be able to:
 
 - Configure and deploy a Lifecyle Workflow
 - Create an Entitlement package an use it to grant user access
-- Design and Access Review and run it
+- Design an Access Review and run it
 - Use Just-in-Time access with Privileged Identity Management
 
 ### 💻 Technologies Used
 
 1. Microsoft Entra Lifecycle Workflows
-1. Micorosft Entra Entitlement Management
+1. Microsoft Entra Entitlement Management
 1. Privileged Identity Management
 1. Access Reviews
 
@@ -46,7 +46,7 @@ For more information, setup instructions for other dev clients, and to post comm
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for AI Tour 26 Sessions |
 | Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)| Connect with the Azure AI Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
-| Configure and Govern Entitlement with Microsoft Entra ID | [Entitlement training](https://learn.microsoft.com/training/paths/configure-manage-entitlement-microsoft-entra-id/) | Learn more about Entitlement Management |
+| Configure and Govern Entitlements with Microsoft Entra ID | [Entitlement training](https://learn.microsoft.com/training/paths/configure-manage-entitlement-microsoft-entra-id/) | Learn more about Entitlement Management |
 
 ## Content Owners
 
